@@ -30,7 +30,7 @@ const AppOpenOrInstall = ({ status, appName, deviceName }: { status: string, app
 const AppDetectInstall = ({ }) => {
     const status = "Install";
     let deferredPrompt: any;
-    const appName = (pkg.app.name).toLowerCase();
+    const appName = (pkg.app.name);
     const deviceName = getDeviceName();
     window.addEventListener('beforeinstallprompt', (e) => {
         // Prevent the mini-infobar from appearing on mobile

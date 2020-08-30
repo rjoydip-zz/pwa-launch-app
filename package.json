@@ -43,9 +43,9 @@
     }
   },
   "app": {
-    "name": "Whatsapp",
-    "pkgName": "com.whatsapp",
-    "urlScheme": "whatsapp",
+    "name": "Barcode Scanner",
+    "pkgName": "com.google.zxing.client.android",
+    "urlScheme": "zxing",
     "urlParams": "app"
   }
 }

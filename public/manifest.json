@@ -1,7 +1,7 @@
 {
-  "name": "Next Typescript PWA",
-  "short_name": "Next Typescript PWA",
-  "description": "Next Typescript PWA",
+  "name": "PWA install app",
+  "short_name": "PWA install app",
+  "description": "PWA install app",
   "icons": [
     {
       "src": "/static/android-icon.png",
