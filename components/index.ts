@@ -1,2 +1,2 @@
-export * from "./Theme";
+export * from "../utils/Theme";
 export * from "./Layout";

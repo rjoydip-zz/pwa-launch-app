@@ -4,6 +4,13 @@ module.exports = {
   future: {
     removeDeprecatedGapUtilities: true,
   },
+  purge: {
+    enable: true,
+    content: [
+      './pages/**/*.{ts,tsx,css}',
+      './components/**/*.{ts,tsx,css}',
+    ]
+  },
   theme: {
     extend: {
       colors: {

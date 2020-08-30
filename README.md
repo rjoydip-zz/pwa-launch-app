@@ -1,6 +1,6 @@
-# nfc-web
+# pwa-detect-install-native-app
 
-This is a really simple `Next.js` project.
+Detect native app and install/open it from PWA. Install PWA from custom installer.
 
 ## Features
 

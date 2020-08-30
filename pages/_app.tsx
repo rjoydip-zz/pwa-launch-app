@@ -1,8 +1,8 @@
 import { AppProps } from 'next/app'
 import Head from 'next/head'
 import React from 'react'
-import pkg from '../package.json'
 import styles from '../index.css'
+import { pkg } from '../utils'
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (

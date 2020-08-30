@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
       - name: Clean, Lint, Build
         run: |
-          yarn
-          yarn lint
-          yarn build
+          npm install
+          npm run lint
+          npm run build
       
