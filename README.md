@@ -1,6 +1,6 @@
-# pwa-detect-install-native-app
+# pwa-install-app
 
-Detect native app and install/open it from PWA. Install PWA from custom installer.
+Detect native app and install with the help of PWA. If native app is already installed PWA will open the app. It also add PWA to home screen on `Windows/Linux/MacOS`.
 
 ## Features
 
