@@ -1,8 +1,8 @@
 {
-  "name": "pwa-install-app",
+  "name": "pwa-launch-app",
   "version": "1.0.0",
   "license": "ISC",
-  "title": "Detect native app and install with the help of PWA. If native app is already installed PWA will open the app. It also add PWA to home screen on `Windows/Linux/MacOS`",
+  "title": "Launch native app on device using PWA or add PWA to home screen on `Windows/Linux/MacOS`",
   "scripts": {
     "lint": "tsc",
     "start": "next start",
