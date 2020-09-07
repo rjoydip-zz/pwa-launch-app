@@ -26,8 +26,6 @@ const Layout: NextPage<{}> = ({ children }) => {
   // prevents ssr flash for mismatched dark mode
   if (!mounted) return <div style={{ visibility: 'hidden' }} />
 
-  console.log(theme)
-
   return (
     <ThemeProvider theme={theme === 'light' ? lightTheme : darkTheme}>
       <GlobalStyles className="h-screen">
