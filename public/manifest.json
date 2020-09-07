@@ -1,7 +1,7 @@
 {
-  "name": "PWA install app",
-  "short_name": "PWA install app",
-  "description": "PWA install app",
+  "name": "PWA lunch app",
+  "short_name": "PWA lunch app",
+  "description": "PWA lunch app",
   "icons": [
     {
       "src": "/static/android-icon.png",
